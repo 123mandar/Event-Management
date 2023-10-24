@@ -1,4 +1,4 @@
-## H2Event-Management
+## H2 Event-Management
 Event Management System: Web application for organizing and managing events. Modules can include event creation, registration, ticketing, attendee management, schedule management, and event analytics
 
 ## H2Some glimplse of our website
