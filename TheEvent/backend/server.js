@@ -22,8 +22,8 @@ mongoose.connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
 
         // Create an information to be saved...
         const user1 = new userModel({
-            name: 'mandar dhage',
-            email: 'mandardhage2201@gmail.com',
+            name: 'sakshi  dhage',
+            email: 'sakhsidhage2201@gmail.com',
         });
 
         user1.save()
