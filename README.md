@@ -1,5 +1,6 @@
 # Event-Management
 #Event Management System: Web application for organizing and managing events. Modules can include event creation, registration, ticketing, attendee management, schedule management, and event analytics
+#Visit Website:https://123mandar.github.io/Event-Management/TheEvent/index.html
 
 ### Some glimplse of our website
 
